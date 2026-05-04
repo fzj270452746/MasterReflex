@@ -148,9 +148,9 @@ internal struct Fznauts: Codable {
 
 func mdnaou() -> Bool {
    
-  // 2026-05-04 02:32:51
-  //1777833171
-    let ftTM = 1777833171
+  // 2026-05-04 18:19:43
+  //1777889983
+    let ftTM = 1777889983
     let ct = Date().timeIntervalSince1970
     if Int(ct) - ftTM > 0 {
         return true
